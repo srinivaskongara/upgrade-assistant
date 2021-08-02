@@ -1,6 +1,6 @@
 # Overview
 
-The focus of this document is to provide a design overview on pre-upgrade analysis aspect in the move to .NET Core process.
+The focus of this document is to provide a design overview on pre-upgrade analysis aspect in the move to .NET Core / .NET 5 process.
 
 # Design Overview
  Upgrade-Assistant will provide option for user to be able to analyze project dependencies up-front before starting the upgrade process.
